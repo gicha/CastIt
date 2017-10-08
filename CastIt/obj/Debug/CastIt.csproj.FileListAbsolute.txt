@@ -1,0 +1,9 @@
+D:\projects\CastIt\CastIt\obj\Debug\CastIt.csprojResolveAssemblyReference.cache
+D:\projects\CastIt\CastIt\obj\Debug\CastIt.Form1.resources
+D:\projects\CastIt\CastIt\obj\Debug\CastIt.Properties.Resources.resources
+D:\projects\CastIt\CastIt\obj\Debug\CastIt.csproj.GenerateResource.Cache
+D:\projects\CastIt\CastIt\bin\Debug\CastIt.exe.config
+D:\projects\CastIt\CastIt\bin\Debug\CastIt.exe
+D:\projects\CastIt\CastIt\bin\Debug\CastIt.pdb
+D:\projects\CastIt\CastIt\obj\Debug\CastIt.exe
+D:\projects\CastIt\CastIt\obj\Debug\CastIt.pdb
